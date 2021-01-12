@@ -1,0 +1,9 @@
+C:\Users\User\Desktop\Consolas\ABB\ABB-BL\bin\Debug\netcoreapp3.1\ABB-BL.deps.json
+C:\Users\User\Desktop\Consolas\ABB\ABB-BL\bin\Debug\netcoreapp3.1\ABB-BL.dll
+C:\Users\User\Desktop\Consolas\ABB\ABB-BL\bin\Debug\netcoreapp3.1\ABB-BL.pdb
+C:\Users\User\Desktop\Consolas\ABB\ABB-BL\obj\Debug\netcoreapp3.1\ABB-BL.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Consolas\ABB\ABB-BL\obj\Debug\netcoreapp3.1\ABB-BL.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Consolas\ABB\ABB-BL\obj\Debug\netcoreapp3.1\ABB-BL.AssemblyInfo.cs
+C:\Users\User\Desktop\Consolas\ABB\ABB-BL\obj\Debug\netcoreapp3.1\ABB-BL.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Consolas\ABB\ABB-BL\obj\Debug\netcoreapp3.1\ABB-BL.dll
+C:\Users\User\Desktop\Consolas\ABB\ABB-BL\obj\Debug\netcoreapp3.1\ABB-BL.pdb

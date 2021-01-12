@@ -1,0 +1,16 @@
+C:\Users\User\Desktop\Consolas\ABB\ABB-Consola\bin\Debug\netcoreapp3.1\ABB-Consola.exe
+C:\Users\User\Desktop\Consolas\ABB\ABB-Consola\bin\Debug\netcoreapp3.1\ABB-Consola.deps.json
+C:\Users\User\Desktop\Consolas\ABB\ABB-Consola\bin\Debug\netcoreapp3.1\ABB-Consola.runtimeconfig.json
+C:\Users\User\Desktop\Consolas\ABB\ABB-Consola\bin\Debug\netcoreapp3.1\ABB-Consola.runtimeconfig.dev.json
+C:\Users\User\Desktop\Consolas\ABB\ABB-Consola\bin\Debug\netcoreapp3.1\ABB-Consola.dll
+C:\Users\User\Desktop\Consolas\ABB\ABB-Consola\bin\Debug\netcoreapp3.1\ABB-Consola.pdb
+C:\Users\User\Desktop\Consolas\ABB\ABB-Consola\bin\Debug\netcoreapp3.1\ABB-BL.dll
+C:\Users\User\Desktop\Consolas\ABB\ABB-Consola\bin\Debug\netcoreapp3.1\ABB-BL.pdb
+C:\Users\User\Desktop\Consolas\ABB\ABB-Consola\obj\Debug\netcoreapp3.1\ABB-Consola.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Consolas\ABB\ABB-Consola\obj\Debug\netcoreapp3.1\ABB-Consola.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Consolas\ABB\ABB-Consola\obj\Debug\netcoreapp3.1\ABB-Consola.AssemblyInfo.cs
+C:\Users\User\Desktop\Consolas\ABB\ABB-Consola\obj\Debug\netcoreapp3.1\ABB-Consola.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Consolas\ABB\ABB-Consola\obj\Debug\netcoreapp3.1\ABB-Consola.csproj.CopyComplete
+C:\Users\User\Desktop\Consolas\ABB\ABB-Consola\obj\Debug\netcoreapp3.1\ABB-Consola.dll
+C:\Users\User\Desktop\Consolas\ABB\ABB-Consola\obj\Debug\netcoreapp3.1\ABB-Consola.pdb
+C:\Users\User\Desktop\Consolas\ABB\ABB-Consola\obj\Debug\netcoreapp3.1\ABB-Consola.genruntimeconfig.cache
